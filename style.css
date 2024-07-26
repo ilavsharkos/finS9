@@ -371,6 +371,26 @@ color: #45AC34;}
 justify-content: center;}
 .poster-div a:hover{color: #168D38;}
 
+@media(max-width:1300px){
+    #medija-main{padding: 4% 10% 5%;}
+    .poster-div img {width: 80%;}
+}
+@media(max-width: 1000px){
+    #medija-main{padding: 4% 5% 5%;}
+    .poster-div img {width: 90%;}
+    .poster-div {font-size: 0.9rem;}
+    .poster-div p{font-size: 0.9rem;}
+}
+@media (max-width:768px){
+    #medija-main{padding: 4% 5% 5%;}
+    .poster-div img {width: 50%;
+    padding: 5% 0;}
+    .poster-div {font-size: 0.9rem;}
+}
+@media(max-width:650px){
+    .poster-div img {width: 90%;
+        padding: 7% 0;}
+}
 
                             /* footer   */
 
