@@ -350,13 +350,20 @@ padding: 0 25% 2%;}
 
 
 
+
 @media (max-width:1200px){
     .slike-spozori{width:180px;}
+    #zlatni-legit p {font-weight: 500;
+        font-size: 1.2rem;
+        padding: 0 20% 2%;}
 }
 @media (max-width:950px){
     .slike-sponzori{width:160px;
     margin:8%;}
     .zahvala-sponzorima p {padding: 2% 6% 5%;}
+    #zlatni-legit p {font-weight: 500;
+        font-size: 1.1rem;
+        padding: 0 12% 2%;}
 }
 @media(max-width:700px){
     .zahvala-sponzorima p {padding: 3% 2%;
@@ -364,6 +371,9 @@ padding: 0 25% 2%;}
     .main-sponzori > div {padding: 5% 5% 5%;}
     .main-sponzori h2 {margin: 0 auto 4%;
         padding-top: 3%;}
+    #zlatni-legit p {font-weight: 500;
+        font-size: 1rem;
+        padding: 0 6% 2%;}
     
 }
 
