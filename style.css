@@ -335,10 +335,18 @@ padding-top: 2%;}
 .main-sponzori > div {padding: 3% 10% 2%;}
 /* #zlatni{background-color: #168D38;}
 #srebrni{background-color: #45AC34;} */
+#zlatni-legit h2  {color:#168D38;}
 #zlatni h2 {color:#168D38;}
 #srebrni h2 {color: #45AC34;}
 #broncani h2 {color:#0CC640;}
 #srebrni img, #broncani img {margin: 7%;}
+#zlatni-legit img {margin: 3% auto 4%;}
+#zlatni-legit p {font-weight: 500;
+font-size: 1.2rem;
+padding: 0 25% 2%;}
+.main-sponzori a {text-decoration: none;
+    color: #45AC34;}
+.main-sponzori a:hover{color: #168D38;}
 
 
 
